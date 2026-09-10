@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+students.txt
+student_report.txt
+tasks.txt
